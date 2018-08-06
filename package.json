@@ -1,0 +1,14 @@
+{
+  "name": "react-native-test",
+  "version": "1.0.0",
+  "description": "Test application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anirudh Emmadi",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-cli": "^2.0.1"
+  }
+}
